@@ -2,6 +2,7 @@
 
 ## Class Goals
 I have known it;
+test again
 During this class, you will learn:
 - How Git and GitHub work together to track changes in your projects.
 - How GitHub enables collaboration within your team.
